@@ -1,3 +1,5 @@
+![JS ES6](assets/js-book.png)
+
 # ES6InDepth-it-IT
 Italian translation of ES6 In Depth from Mozilla  https://hacks.mozilla.org/category/es6-in-depth/
 
