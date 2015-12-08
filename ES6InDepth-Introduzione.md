@@ -1,5 +1,5 @@
 
-
+![JS ES6](assets/js-book.png)
 Benvenuti a ES6 In Depth! Questa è una serie di articoli settimanali, che rappresentano la traduzione italiana degli stessi postati da Mozilla su [hacks.mozilla.org](https://hacks.mozilla.org) che rappresenta una delle migliori risorse per tutti coloro che sono ogni giorno impegnati nello sviluppo web e che vogliono approfondire le proprie conoscenze. In questa serie di articoli affronteremo ECMAScript 6 o ES6, oggi noto anche come ES2015, la nuova versione del linguaggio JavaScript a cui sono state aggiunte nuove features che lo rendono più flessibile ed espressivo soprattutto per coloro che provengono da altri linguaggi quali Java o C#.
 
 Al momento della stesura di questo articolo ES6 è già uno standard identificato con il nome di ECMAScript 2015 che potete consultare al segunete indirizzo: [ecma-262](http://www.ecma-international.org/ecma-262/6.0/).
